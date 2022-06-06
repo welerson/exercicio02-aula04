@@ -13,6 +13,8 @@
  
 </html>
   
+  Clique na imagem para ver o funcionamento. 
+  
 Exercício 04:
   
 Conceitos estudados:
