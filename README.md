@@ -9,12 +9,14 @@
 </head>
 <body>
  
-  <img src="https://media-exp1.licdn.com/dms/image/C4D22AQFLlYvvhvW8vw/feedshare-shrink_800/0/1650318640337?e=1657152000&v=beta&t=O9CbCaqarX_OfgLO1IRSOcrBbgrIINQVsYsuuDUhLLo">
+  [![Alt text](https://img.youtube.com/vi/DbASW16fK7o/0.jpg)](https://www.youtube.com/watch?v=DbASW16fK7o)
  
 </html>
   
-Recriar um layout.
-
-O desafio era recriar um layout do zero, aproveitando os conhecimentos adquiridos até aqui.
-
-Foi usado o figma como orientação.
+Exercício 04:
+  
+Conceitos estudados:
+  - Tipo de dados no Java Script 
+  - Operadores matemáticos e comparativos 
+  - Estruturas de repetição e condicionantes
+  - Funções e Arrays 
