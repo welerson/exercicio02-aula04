@@ -9,7 +9,7 @@
 </head>
 <body>
  
-  [![Alt text](https://img.youtube.com/vi/DbASW16fK7o/0.jpg)](https://www.youtube.com/watch?v=DbASW16fK7o)
+  [![Alt text](https://img.youtube.com/vi/DbASW16fK7o/0.jpg)](https://welerson.github.io/exercicio02-aula04/)
  
 </html>
   
